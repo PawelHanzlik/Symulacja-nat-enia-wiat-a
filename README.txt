@@ -1,2 +1,3 @@
-Symulacja dyskretna systemów z³o¿onych - analiza i symulacja natê¿enia œwiat³a w pomieszczeniu.
-Jêdrzej Kosior i Pawe³ Hanzlik
+Symulacja dyskretna systemÃ³w zÅ‚oÅ¼onych - analiza i symulacja natÄ™Å¼enia Å›wiatÅ‚a w pomieszczeniu.
+JÄ™drzej Kosior i PaweÅ‚ Hanzlik
+Dokumentacja projektu, oraz wszystkie pliki z niÄ… zwiÄ…zane znajdujÄ… siÄ™ w folderze z nazwÄ… doc.
